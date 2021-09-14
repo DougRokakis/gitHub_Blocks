@@ -1,0 +1,40 @@
+/* *{
+    background-color:#f8f9fa
+} */
+
+#container{
+    width:700px;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+.top-row{
+    width:100%;
+    height: 200px;
+    background-color: cornflowerblue; 
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-evenly;
+    padding: 0px auto;
+}
+
+.middle-row{
+    width: 100%;
+    height: 200px;
+    background-color: mediumorchid;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-evenly;
+}
+
+.bottom-row{
+    width: 100%;
+    height: 200px;
+    background-color: aliceblue;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-evenly;
+}
